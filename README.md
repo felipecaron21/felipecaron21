@@ -4,7 +4,7 @@
 
  ## 🧑‍💻 About Me
 
-I work on building data pipelines, modeling and transforming data with dbt, orchestrating workflows with Airflow, and delivering reliable information for analytical consumption. My experience spans from data ingestion to the consumption layer, always focused on quality, governance, and real business impact.
+I specialize in data transformation and modeling with dbt, pipeline orchestration with Airflow, and delivering insights through dashboards and indicators. My work covers the full cycle from ingestion to the consumption layer, with a strong focus on quality, governance, and business impact.
 
 My next step is to grow as a Data Engineer, contributing to robust and scalable projects in data architecture and integration.
 
