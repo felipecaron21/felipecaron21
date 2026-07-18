@@ -3,7 +3,7 @@
 
 ## 🧑‍💻 About Me
 
-Analytics Engineer with experience in analytics engineering, data modeling, and building data products for decision-making. Specialized in designing analytical pipelines, SQL modeling, defining business rules, and turning raw data into strategic insights. Works across the full lifecycle of analytics solutions, from understanding the business problem to delivering metrics and dashboards that support decision-making. Strong background in SQL, Python, dbt, Airflow, and Metabase, always focused on improving data reliability, optimizing processes, and generating measurable business impact.
+Data professional with experience in analytics engineering, data modeling, and building data products that support decision-making. Specialized in designing analytical pipelines, modeling data in SQL, defining business rules, and turning raw data into strategic insights. Works across the full lifecycle of analytics solutions, from understanding the business problem to delivering metrics and dashboards that drive action. Strong background in SQL, Python, dbt, Airflow, and Metabase, with a constant focus on improving data reliability, optimizing processes, and generating measurable business impact.
 
 ---
 
