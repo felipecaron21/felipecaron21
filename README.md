@@ -1,5 +1,5 @@
 # Hey there! I'm Felipe Caron 👋
-### `< Analytics Engineer />`
+### `< Data & Analytics Engineer />`
 
 ## 🧑‍💻 About Me
 
