@@ -3,7 +3,7 @@
 
 ## 🧑‍💻 About Me
 
-Data professional with experience building data pipelines and data architectures, from ingestion to analytical consumption. Skilled in extracting data from databases and APIs, orchestrating workflows with Airflow, and designing data transformations using dbt. Experienced in structuring data layers through medallion architecture, focusing on data quality, reliability, and governance. Also experienced on the analytics side, developing KPIs, dashboards, and business-driven solutions by combining technical expertise with a strong understanding of business needs.
+Data professional with experience building data pipelines and data architectures, from ingestion to analytical consumption. Experienced in structuring data layers through medallion architecture, focusing on data quality, reliability, and governance.
 
 ---
 
